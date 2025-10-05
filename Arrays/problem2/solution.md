@@ -23,6 +23,13 @@ public:
     }
 };
 ```
+
+⏱️ Complexity
+| Metric               | Analysis                                   |
+| -------------------- | ------------------------------------------ |
+| **Time Complexity**  | O(n log n) — due to insertion into the set |
+| **Space Complexity** | O(n) — for storing unique elements         |
+
 ---
 
 # ⚡ Optimal Solution — Remove Duplicates from Sorted Array
@@ -70,3 +77,12 @@ public:
         return i + 1;
     }
 };
+```
+
+# ⏱️ Complexity
+
+| Metric               | Analysis                |
+| -------------------- | ----------------------- |
+| **Time Complexity**  | O(n) — single traversal |
+| **Space Complexity** | O(1) — in-place         |
+
