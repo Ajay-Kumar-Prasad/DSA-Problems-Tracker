@@ -28,8 +28,18 @@ public:
 # ⚡ Optimal Solution — Remove Duplicates from Sorted Array
 
 ## 🧠 Intuition
-Since the array is already **sorted**, all duplicates are **next to each other**.  
-We can use a **two-pointer approach** to overwrite duplicates in-place.
+🔍 Intuition
+
+The array is already sorted — that’s a key observation.
+
+👉 If it’s sorted, all duplicates appear next to each other.
+So we can remove them without using extra space by overwriting duplicates in place.
+
+We’ll use two pointers:
+
+- i → points to the position of the last unique element
+
+- j → scans through the array looking for new unique elements
 
 ---
 
