@@ -57,4 +57,16 @@ The remaining elements are ignored.
 ---
 
 ### 💭 Hints
-1. Since the array is sorted, duplicates are
+1. Since the array is sorted, duplicates are grouped together.  
+2. Use **two pointers** — one for traversing (`j`) and one for tracking the position of the next unique element (`i`).  
+3. When a new unique element is found, move it to the next position.
+
+---
+
+### 🖼️ Visual Representation
+![Remove Duplicates Illustration](./image.png)
+
+---
+
+### 🔗 Related Problems
+- [LeetCode 80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
