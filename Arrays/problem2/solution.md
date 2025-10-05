@@ -22,11 +22,9 @@ public:
         return nums.size();
     }
 };
-
-
+```
 ---
 
-```markdown
 # ⚡ Optimal Solution — Remove Duplicates from Sorted Array
 
 ## 🧠 Intuition
