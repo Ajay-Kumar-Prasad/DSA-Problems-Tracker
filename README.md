@@ -77,7 +77,7 @@ Click to navigate directly to each topic:
 
 ## 🔗 Connect with Me
 
-- [LeetCode Profile](https://leetcode.com/Ajay-Kumar-Prasad/)  
+- [LeetCode Profile](https://leetcode.com/ajayk10440/)  
 - [GitHub Profile](https://github.com/Ajay-Kumar-Prasad)  
 
 ---
