@@ -25,7 +25,7 @@ DSA-Repo/
 ├── Arrays/
 │ ├── Problem1_Name/
 │ │ ├── problem.md
-│ │ └── solution.cpp
+│ │ └── solution.md
 │ └── ...
 ├── Strings/
 ├── LinkedList/
@@ -36,9 +36,8 @@ DSA-Repo/
 └── DynamicProgramming/
 ```
 
-- **problem.md:** Contains the full problem description, constraints, and example input/output.  
-- **solution.cpp:** Contains the implemented solution.  
-- **notes.md:** Contains explanations, hints, and complexity analysis.
+- **problem.md:** Contains the full problem description, constraints, and example input/output.    
+- **solution.md:** Contains the implemented solution, explanations, hints, and complexity analysis.
 
 ---
 
