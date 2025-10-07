@@ -41,23 +41,23 @@ public:
 ## 🚀 Optimal Solution (Two-Pointer + Sorting)
 ## 🔹 Idea:
 
-    Sort both arrays.
+1. Sort both arrays.
 
-    Use two pointers to find common elements efficiently.
+2. Use two pointers to find common elements efficiently.
 
-    Skip duplicates using a set.
+3. Skip duplicates using a set.
 
 ## 🧩 Algorithm:
 
-    Sort both arrays.
+1. Sort both arrays.
 
-    Use two pointers i and j.
+2. Use two pointers i and j.
 
-    If elements match → store in set and move both pointers.
+3. If elements match → store in set and move both pointers.
 
-    If nums1[i] < nums2[j] → move i++.
+4. If nums1[i] < nums2[j] → move i++.
 
-    Else → move j++.
+5. Else → move j++.
 
 ## 🧩 Code (Optimal)
 ```cpp
