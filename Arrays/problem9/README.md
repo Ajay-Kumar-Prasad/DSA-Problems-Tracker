@@ -1,4 +1,5 @@
-# 🧮 169. Majority Element
+# 🧮 169. Majority Element 
+[Problem Link](https://leetcode.com/problems/majority-element/)
 
 ## 📘 Problem Statement
 Given an array `nums` of size `n`, return the **majority element**.
