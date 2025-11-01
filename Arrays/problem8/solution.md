@@ -41,9 +41,9 @@ Use three pointers — `low`, `mid`, and `high` — to partition the array into 
 
 | Section | Range | Contains |
 |----------|--------|----------|
-| `[0 ... low-1]` | Sorted 0s |
-| `[low ... mid-1]` | Sorted 1s |
-| `[high+1 ... n-1]` | Sorted 2s |
+|1.| `[0 ... low-1]` | Sorted 0s |
+|2.| `[low ... mid-1]` | Sorted 1s |
+|3.|`[high+1 ... n-1]` | Sorted 2s |
 
 ---
 
