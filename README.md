@@ -14,7 +14,7 @@ Here’s a snapshot of my LeetCode progress (as of now):
 - **Acceptance Rate:** 55%+  
 - **Topics Covered:** Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming, Backtracking, Greedy, Hashing  
 - **LeetCode Rank / Stats:**  
-  ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Ajay-Kumar-Prasad&theme=dark)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay-Kumar-Prasad?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
