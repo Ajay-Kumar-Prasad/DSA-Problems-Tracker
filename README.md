@@ -1,8 +1,20 @@
 # DSA Problem Solutions 📚
 
-Welcome to my **DSA Problem Solutions** repository! This repo contains solutions to hundreds of **Data Structures & Algorithms (DSA)** problems, organized by topic. Each problem includes a **problem statement**, **example input/output**, and a **coded solution** in C++ (or Python/Java where applicable).
+![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
 
-This repo is a reflection of my **problem-solving journey on LeetCode** and other competitive programming platforms. It’s designed to help others learn patterns, techniques, and improve their DSA skills.
+A curated collection of **Data Structures and Algorithms solutions** implemented while solving problems on **LeetCode and competitive programming platforms**.
+
+The repository is organized by **algorithmic topic** and focuses on understanding **problem-solving patterns, optimized approaches, and complexity analysis**.
+
+Each problem includes:
+
+• Problem description  
+• Example inputs/outputs  
+• Optimized solution implementation  
+• Time & space complexity analysis  
+• Notes explaining the approach
 
 ---
 
@@ -56,6 +68,23 @@ Click to navigate directly to each topic:
 
 ---
 
+## 🧠 Algorithmic Patterns Covered
+
+This repository includes problems covering major algorithmic patterns such as:
+
+• Two Pointers  
+• Sliding Window  
+• Binary Search  
+• Recursion  
+• Backtracking  
+• Greedy Algorithms  
+• Dynamic Programming  
+• Graph Traversal (BFS / DFS)  
+• Tree Traversal  
+• Hashing techniques
+
+---
+
 ## 💡 How to Use
 
 1. Navigate to a topic folder (e.g., `Arrays/`)  
@@ -66,11 +95,14 @@ Click to navigate directly to each topic:
 
 ---
 
-## 📈 Why This Repo?
+## 🎯 Learning Goals
 
-- Helps learners **understand problem-solving patterns**  
-- Provides **ready-to-use solutions** for practice and reference  
-- Tracks my **personal growth** in competitive programming and DSA  
+This repository was created to:
+
+• Strengthen algorithmic thinking  
+• Master common DSA patterns used in interviews  
+• Practice optimized implementations  
+• Prepare for technical interviews at product-based companies
 
 ---
 
@@ -87,4 +119,7 @@ I currently maintain this repo for my personal use and learning. Contributions a
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License.
 
