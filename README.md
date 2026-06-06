@@ -59,9 +59,11 @@ Click to navigate directly to each topic:
 
 - [Arrays](./Arrays)  
 - [Strings](./Strings)  
+- [Binary Search](./BinarySearch)
 - [Linked List](./LinkedList)  
-- [Stack](./Stack)  
-- [Queue](./Queue)  
+- [Recursion](./Recursion)
+- [Bit Manipulation](./BitManipulation)
+- [Stack & Queues](./Stack-Queues)  
 - [Trees](./Trees)  
 - [Graphs](./Graphs)  
 - [Dynamic Programming](./DynamicProgramming)  
