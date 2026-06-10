@@ -63,7 +63,8 @@ Click to navigate directly to each topic:
 - [Linked List](./LinkedList)  
 - [Recursion](./Recursion)
 - [Bit Manipulation](./BitManipulation)
-- [Stack & Queues](./Stack-Queues)  
+- [Stack & Queues](./Stack-Queues) 
+- [Sliding Window With Two Pointers](./SlidingWindow-TwoPointers)
 - [Trees](./Trees)  
 - [Graphs](./Graphs)  
 - [Dynamic Programming](./DynamicProgramming)  
@@ -78,7 +79,8 @@ This repository includes problems covering major algorithmic patterns such as:
 • Sliding Window  
 • Binary Search  
 • Recursion  
-• Backtracking  
+• Backtracking
+- Bit Manipulation  
 • Greedy Algorithms  
 • Dynamic Programming  
 • Graph Traversal (BFS / DFS)  
