@@ -22,7 +22,7 @@ Each problem includes:
 
 Here’s a snapshot of my LeetCode progress (as of now):
 
-- **Problems Solved:** 150+ ✅  
+- **Problems Solved:** 200+ ✅  
 - **Acceptance Rate:** 55%+  
 - **Topics Covered:** Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming, Backtracking, Greedy, Hashing  
 - **LeetCode Rank / Stats:**  
@@ -41,8 +41,10 @@ DSA-Repo/
 │ └── ...
 ├── Strings/
 ├── LinkedList/
+├── BitManipulation/
 ├── Stack/
 ├── Queue/
+├── Heaps/
 ├── Trees/
 ├── Graphs/
 └── DynamicProgramming/
@@ -65,6 +67,7 @@ Click to navigate directly to each topic:
 - [Bit Manipulation](./BitManipulation)
 - [Stack & Queues](./Stack-Queues) 
 - [Sliding Window With Two Pointers](./SlidingWindow-TwoPointers)
+- [Heaps/PriorityQueue](./Heaps)
 - [Trees](./Trees)  
 - [Graphs](./Graphs)  
 - [Dynamic Programming](./DynamicProgramming)  
