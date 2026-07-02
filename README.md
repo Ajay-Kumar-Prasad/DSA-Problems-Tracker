@@ -71,7 +71,7 @@ Click to navigate directly to each topic:
 - [Sliding Window With Two Pointers](./SlidingWindow-TwoPointers)
 - [Heaps/PriorityQueue](./Heaps)
 - [Greedy](./Greedy)
-- [Trees](./Trees)  
+- [BinaryTrees](./BinaryTrees)  
 - [Graphs](./Graphs)  
 - [Dynamic Programming](./DynamicProgramming)  
 
